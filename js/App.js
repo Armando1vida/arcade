@@ -51,9 +51,6 @@
 //        this.stage.addChild(this.nave);
 //        
 
-
-
-
         var self = this;
         createjs.Ticker.setFPS(30);
         createjs.Ticker.addListener(function(e) {
